@@ -11,12 +11,12 @@
     },
     "keywords": [
         "whatsapp bot",
-        "Knight Bot Mini",
+        "Luxio Bot",
         "bot",
         "baileys",
         "md"
     ],
-    "author": "Your Name",
+    "author": "is WeedTech",
     "license": "MIT",
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
